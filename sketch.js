@@ -8,4 +8,5 @@ function draw() {
 
   textFont("Impact", 50);
   text("Everyone should have access to clean water and sanitation",380, 60);
+  
 }
