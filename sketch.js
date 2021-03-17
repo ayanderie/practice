@@ -1,11 +1,11 @@
 function setup() {
-  createCanvas(1000, 1000);
+  createCanvas(2000, 2000);
 }
 
 function draw() {
-  background(220);
+  background(102,178,255);
   fill(255);
 
-  textFont("serif", 30);
-  text("Everyone should have access to clean water and sanitation",90, 60);
+  textFont("Impact", 50);
+  text("Everyone should have access to clean water and sanitation",380, 60);
 }
